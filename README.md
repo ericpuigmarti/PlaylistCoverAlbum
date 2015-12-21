@@ -2,9 +2,8 @@
 A collection of playlist cover artwork 
 
 <h2>Just My Type</h2>
-coming soon... 
 ![alt tag](https://raw.github.com/ericpuigmarti/PlaylistCoverAlbum/master/JustMyType_albumCover.png)
-
+coming soon... 
 
 <h2>Summer Daze</h2>
 Listen here: https://designers.mx/mixes/summer-daze
