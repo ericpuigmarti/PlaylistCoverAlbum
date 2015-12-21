@@ -1,18 +1,18 @@
 # PlaylistCoverAlbum
 A collection of playlist cover artwork 
 
-#Just My Type
+<h2>Just My Type</h2>
 coming soon... 
 
-#Summer Daze
+<h2>Summer Daze</h2>
 Listen here: https://designers.mx/mixes/summer-daze
 
-#On The Run
+<h2>On The Run</h2>
 Listen here: https://designers.mx/mixes/on-the-run-1 
 
-#Between The Noise
+<h2>Between The Noise</h2>
 Listen here: https://designers.mx/mixes/between-the-noise 
 
-#Farewell
+<h2>Farewell</h2>
 Listen here: https://designers.mx/mixes/farewell
 
