@@ -3,6 +3,7 @@ A collection of playlist cover artwork
 
 <h2>Just My Type</h2>
 ![alt tag](https://raw.github.com/ericpuigmarti/PlaylistCoverAlbum/master/JustMyType_albumCover.png)
+<br />
 coming soon... 
 
 <h2>Summer Daze</h2>
