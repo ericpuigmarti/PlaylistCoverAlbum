@@ -1,7 +1,7 @@
 # PlaylistCoverAlbum
 A collection of playlist cover artwork 
 
-<h2>Just My Type</h2> coming soon... 
+<h2>Just My Type</h2> Listen here: https://open.spotify.com/user/ericpuigmarti/playlist/2yB5Cp5gntTXAu3yVoxf0l 
 ![alt tag](https://raw.github.com/ericpuigmarti/PlaylistCoverAlbum/master/Just%20my%20type/JustMyType_albumCover.png)
 
 <h2>Summer Daze</h2> Listen here: https://designers.mx/mixes/summer-daze
